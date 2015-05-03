@@ -1,0 +1,1 @@
+.\gyp_build\gyp\gyp.bat --depth=. -f msvs -G msvs_version=2012 --generator-output=.\builds\vs_build all.gyp 
